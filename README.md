@@ -19,8 +19,9 @@
  
  #🔗lINKS
  
- <a href="https://github.com/IBM-EPBL/IBM-Project-3482-1658569370/tree/main/ASSIGNMENT">Assignments</a><br>
- <a href="https://github.com/IBM-EPBL/IBM-Project-3482-1658569370/tree/main/Project%20Design%20%26%20Planning">Project Design & Planning</a><br>
+ <a href="https://github.com/IBM-EPBL/IBM-Project-3482-1658569370/tree/main/Assesments">Assesment</a><br>
+ <a href="https://github.com/IBM-EPBL/IBM-Project-3482-1658569370/tree/main/Pre-Development">Pre-Development</a><br>
+ <a href="https://github.com/IBM-EPBL/IBM-Project-3482-1658569370/tree/main/Project%20Development%20Phase">Project Development Phase</a><br>
  <a href=""></a><br>
 
 
